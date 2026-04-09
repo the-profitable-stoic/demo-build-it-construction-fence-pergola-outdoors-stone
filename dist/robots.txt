@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-build-it-construction-fence-pergola-outdoors-stone-masonry-concrete-landscape.dream-surge.com/sitemap-index.xml

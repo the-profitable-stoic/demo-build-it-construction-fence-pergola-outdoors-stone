@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Build it construction, Fence, Pergola, Outdoors Stone Masonry, concrete, landscape",
+    "phone": "+18175045966",
+    "category": "fence contractor",
+    "city": "Arlington",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Arlington's Trusted Fence & Outdoor Experts",
+      "heroSubline": "Build It Construction delivers superior craftsmanship and lasting value. Specializing in fences, pergolas, stonework and outdoor living spaces for discerning homeowners.",
+      "aboutTitle": "Built on Quality, Rooted in Arlington",
+      "aboutText": [
+        "Build It Construction started with a simple goal: to provide Arlington residents with high-quality, durable fences and outdoor structures they could rely on. We're not just builders; we're your neighbors, committed to enhancing our community one project at a time.",
+        "Our approach is straightforward: meticulous planning, premium materials, and skilled execution. We believe in clear communication, transparent pricing, and exceeding expectations on every job, big or small. We treat your property like it's our own, ensuring minimal disruption and maximum satisfaction.",
+        "We're proud to be an active part of the Arlington community, supporting local initiatives and organizations. We understand the unique needs of Arlington homeowners, from weathering our hot summers to withstanding the occasional ice storm. Let us help you create an outdoor space that's both beautiful and built to last."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Years of experience building fences and outdoor structures that stand the test of time."
+        },
+        {
+          "title": "Premium Materials",
+          "description": "We only use high-quality lumber, stone, and concrete to ensure lasting durability and beauty."
+        },
+        {
+          "title": "Custom Designs",
+          "description": "Tailored solutions to match your unique style and property, from classic to contemporary."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Arlington's climate, soil conditions, and building codes."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Outdoor Space?",
+      "ctaSubline": "Get a free quote today and discover the Build It Construction difference."
+    },
+    "services": [
+      {
+        "slug": "wood-fence-installation",
+        "name": "Wood Fence Installation",
+        "shortDescription": "Enhance your property with a classic and durable wood fence.",
+        "description": "A wood fence provides privacy, security, and timeless appeal to any Arlington home. Build It Construction specializes in crafting custom wood fences using premium materials, built to withstand the Texas climate. We offer a wide variety of wood types, including cedar, pine, and treated lumber, each offering unique aesthetic and durability characteristics. Our experienced team handles every step of the process, from initial consultation and design to professional installation and finishing. We carefully assess your property lines, soil conditions, and HOA requirements to ensure a seamless and compliant installation. Whether you're looking for a traditional picket fence, a privacy fence, or a decorative accent, we will design and build a wood fence that meets your specific needs and enhances the beauty of your outdoor space. We ensure proper post depth and spacing to prevent leaning and warping and use high-quality fasteners and hardware for long-lasting performance. We also offer staining and sealing services to protect your wood fence from the elements and maintain its natural beauty for years to come.",
+        "process": [
+          "Step 1: Site assessment and design consultation",
+          "Step 2: Material selection and permitting",
+          "Step 3: Professional installation of posts and panels",
+          "Step 4: Finishing, staining, and cleanup"
+        ],
+        "benefits": [
+          "Enhanced privacy and security",
+          "Increased property value",
+          "Classic and timeless aesthetic",
+          "Customizable designs"
+        ],
+        "faq": [
+          {
+            "question": "How long does wood fence installation take?",
+            "answer": "Typically, a standard wood fence installation takes between 2-5 days, depending on the size and complexity of the project. We provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "What type of wood is best for fences in Arlington?",
+            "answer": "Cedar is a popular choice due to its natural resistance to rot and insects. Treated pine is another cost-effective option that offers good durability with proper maintenance."
+          },
+          {
+            "question": "Do I need a permit for a fence in Arlington?",
+            "answer": "Yes, a permit is generally required for fence installation in Arlington. We can assist you with the permitting process to ensure compliance with local regulations."
+          }
+        ]
+      },
+      {
+        "slug": "pergola-construction",
+        "name": "Pergola Construction",
+        "shortDescription": "Create a stunning outdoor living space with a custom-built pergola.",
+        "description": "A pergola adds elegance and shade to any backyard, creating a perfect space for relaxation and entertainment. Build It Construction designs and builds custom pergolas tailored to your specific needs and style. We use premium-grade lumber and materials to ensure lasting durability and beauty. Our experienced craftsmen can create a variety of pergola styles, from simple and modern to elaborate and traditional. We work closely with you to determine the ideal size, shape, and placement of your pergola to maximize shade and enhance your outdoor living experience. We also offer a range of customization options, including lattice, screens, and lighting, to create a truly unique and functional space. Our pergolas are built to withstand the Texas weather, with proper anchoring and weather-resistant finishes. Beyond aesthetics, we focus on structural integrity, ensuring your pergola is a safe and enjoyable haven for years to come. We can also integrate your pergola with existing patios, decks, or landscaping to create a cohesive and harmonious outdoor environment.",
+        "process": [
+          "Step 1: Design consultation and site planning",
+          "Step 2: Material selection and pergola style",
+          "Step 3: Professional construction and assembly",
+          "Step 4: Finishing and customization"
+        ],
+        "benefits": [
+          "Enhanced outdoor living space",
+          "Increased property value",
+          "Added shade and comfort",
+          "Customizable designs"
+        ],
+        "faq": [
+          {
+            "question": "What is the best material for a pergola in Arlington?",
+            "answer": "Cedar and redwood are excellent choices due to their natural resistance to rot and insects. Pressure-treated lumber is another affordable and durable option."
+          },
+          {
+            "question": "Can you attach a pergola to my house?",
+            "answer": "Yes, we can build attached or freestanding pergolas, depending on your preferences and property layout. We will ensure the attachment is structurally sound and aesthetically pleasing."
+          },
+          {
+            "question": "How much does a pergola cost?",
+            "answer": "The cost of a pergola varies depending on the size, materials, and design complexity. We provide free, detailed quotes to help you plan your budget."
+          }
+        ]
+      },
+      {
+        "slug": "outdoor-stone-masonry",
+        "name": "Outdoor Stone Masonry",
+        "shortDescription": "Add timeless beauty and durability to your outdoor space with custom stonework.",
+        "description": "Build It Construction specializes in creating stunning outdoor stone features that enhance the beauty and value of your property. From stone patios and walkways to retaining walls and outdoor fireplaces, we deliver exceptional craftsmanship and lasting results. We work with a variety of natural stones, including limestone, sandstone, and granite, to create unique and durable features that complement your home's architecture and landscaping. Our experienced masons are skilled in a variety of techniques, including dry-stacking, mortaring, and veneering, to create custom designs that meet your specific needs and preferences. We pay close attention to detail, ensuring proper drainage and structural integrity to withstand the Texas climate. Whether you're looking to create a cozy outdoor living space or add curb appeal to your home, our stone masonry services will transform your outdoor space into a beautiful and functional extension of your home. We handle everything from design and material selection to installation and finishing, ensuring a seamless and stress-free experience.",
+        "process": [
+          "Step 1: Design and material selection",
+          "Step 2: Site preparation and excavation",
+          "Step 3: Stone installation and mortaring",
+          "Step 4: Finishing and sealing"
+        ],
+        "benefits": [
+          "Enhanced curb appeal",
+          "Increased property value",
+          "Durable and long-lasting",
+          "Custom designs"
+        ],
+        "faq": [
+          {
+            "question": "What type of stone is best for outdoor use in Arlington?",
+            "answer": "Limestone and sandstone are popular choices due to their durability and resistance to weathering. We can help you select the best stone for your specific project and budget."
+          },
+          {
+            "question": "Do I need a permit for a stone patio or walkway?",
+            "answer": "Typically, permits are required for structures exceeding a certain size or those that alter drainage patterns. We can assist you with the permitting process."
+          },
+          {
+            "question": "How do I maintain my stone patio or walkway?",
+            "answer": "Regular cleaning with a mild detergent and water is generally sufficient. We can also recommend sealants to protect your stone from stains and weathering."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-services",
+        "name": "Concrete Services",
+        "shortDescription": "Durable and reliable concrete solutions for your outdoor projects.",
+        "description": "Build It Construction provides a full range of concrete services for Arlington homeowners, from driveways and sidewalks to patios and foundations. We use high-quality concrete mixes and proven techniques to ensure lasting durability and a smooth, professional finish. Our experienced team handles every step of the process, from site preparation and formwork to pouring, finishing, and curing. We pay close attention to detail, ensuring proper grading and drainage to prevent cracking and settling. We offer a variety of concrete finishes, including broom finish, stamped concrete, and exposed aggregate, to create custom designs that complement your home's style. Whether you're looking to replace an old driveway, add a new patio, or build a solid foundation for your outdoor structure, our concrete services will provide a durable and reliable solution. We understand the importance of proper curing to achieve maximum strength and longevity, and we take the time to ensure your concrete project is built to last.",
+        "process": [
+          "Step 1: Site preparation and excavation",
+          "Step 2: Formwork and reinforcement",
+          "Step 3: Concrete pouring and finishing",
+          "Step 4: Curing and sealing"
+        ],
+        "benefits": [
+          "Durable and long-lasting",
+          "Versatile and customizable",
+          "Increased property value",
+          "Low maintenance"
+        ],
+        "faq": [
+          {
+            "question": "How long does concrete take to cure?",
+            "answer": "Concrete typically takes 28 days to fully cure, but it can be walked on after 24-48 hours. We recommend avoiding heavy traffic for at least 7 days."
+          },
+          {
+            "question": "What is the best concrete mix for a driveway?",
+            "answer": "A concrete mix with a high compressive strength (typically 4000 PSI or higher) is recommended for driveways to withstand heavy loads and traffic."
+          },
+          {
+            "question": "How can I prevent my concrete from cracking?",
+            "answer": "Proper site preparation, reinforcement, and curing are essential to prevent cracking. We also recommend using expansion joints to accommodate temperature changes."
+          }
+        ]
+      },
+      {
+        "slug": "landscape-design-and-installation",
+        "name": "Landscape Design & Installation",
+        "shortDescription": "Transform your yard into a beautiful and functional outdoor oasis.",
+        "description": "Build It Construction offers comprehensive landscape design and installation services to create stunning outdoor spaces for Arlington homeowners. We work closely with you to develop a custom landscape plan that reflects your style, needs, and budget. Our experienced team handles every aspect of the project, from initial design and plant selection to installation, irrigation, and lighting. We carefully consider your property's existing features, soil conditions, and drainage patterns to create a landscape that thrives in the Texas climate. We offer a wide range of landscaping services, including planting trees, shrubs, and flowers, installing sod and mulch, building retaining walls and pathways, and creating outdoor living spaces. Whether you're looking to create a tranquil garden, a vibrant entertainment area, or a sustainable landscape, our landscape design and installation services will transform your yard into a beautiful and functional extension of your home. We select drought-tolerant plants that thrive in Arlington's hot summers and provide ongoing maintenance to keep your landscape looking its best.",
+        "process": [
+          "Step 1: Design consultation and site analysis",
+          "Step 2: Landscape plan development",
+          "Step 3: Plant selection and material sourcing",
+          "Step 4: Installation and irrigation"
+        ],
+        "benefits": [
+          "Enhanced curb appeal",
+          "Increased property value",
+          "Improved outdoor living space",
+          "Sustainable and eco-friendly"
+        ],
+        "faq": [
+          {
+            "question": "What are some drought-tolerant plants for Arlington?",
+            "answer": "Texas sage, lantana, and yucca are excellent choices for drought-tolerant landscaping in Arlington. They require minimal watering and thrive in the Texas heat."
+          },
+          {
+            "question": "How often should I water my lawn in Arlington?",
+            "answer": "Watering deeply but infrequently is generally recommended. Aim for about 1 inch of water per week, depending on the weather conditions."
+          },
+          {
+            "question": "Do you offer landscape maintenance services?",
+            "answer": "Yes, we offer ongoing landscape maintenance services, including mowing, pruning, fertilization, and weed control, to keep your landscape looking its best."
+          }
+        ]
+      },
+      {
+        "slug": "fence-repair",
+        "name": "Fence Repair",
+        "shortDescription": "Reliable fence repair services to keep your fence strong and secure.",
+        "description": "Don't let a damaged fence compromise your property's security and curb appeal. Build It Construction provides prompt and professional fence repair services for Arlington homeowners. Whether your fence has been damaged by weather, age, or impact, our experienced team can quickly assess the damage and provide effective repairs. We repair all types of fences, including wood, metal, and vinyl. We use high-quality materials and proven techniques to ensure lasting repairs that restore your fence's strength and stability. From replacing broken posts and panels to repairing gates and latches, we handle all types of fence repairs, large and small. We understand the importance of a secure and well-maintained fence, and we're committed to providing reliable repair services that protect your property and enhance its value. We also offer preventative maintenance services to help extend the life of your fence and prevent future damage.",
+        "process": [
+          "Step 1: Damage assessment and quote",
+          "Step 2: Material sourcing",
+          "Step 3: Repair or replacement",
+          "Step 4: Cleanup and inspection"
+        ],
+        "benefits": [
+          "Restored security and privacy",
+          "Enhanced curb appeal",
+          "Extended fence lifespan",
+          "Cost-effective solution"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my fence needs repair?",
+            "answer": "Signs of fence damage include leaning posts, broken panels, loose gates, and rust or rot. If you notice any of these issues, it's time to call for a repair."
+          },
+          {
+            "question": "Can you match the existing style of my fence?",
+            "answer": "Yes, we can match the style and materials of your existing fence to ensure a seamless repair."
+          },
+          {
+            "question": "How long does fence repair take?",
+            "answer": "Most fence repairs can be completed in a day or two, depending on the extent of the damage."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Dallas",
+        "slug": "dallas-tx",
+        "state": "TX",
+        "content": "Build it construction, Fence, Pergola, Outdoors Stone Masonry, concrete, landscape is proud to offer our comprehensive fence, pergola, stone masonry, concrete, and landscaping services to the residents of Dallas, Texas. From the iconic skyline to the charming neighborhoods filled with 1950s ranch homes, we understand the unique needs of Dallas homeowners. We're committed to providing high-quality craftsmanship and exceptional customer service to enhance the beauty and value of your property.\n\nWhether you're looking to install a new privacy fence, build a custom pergola for your backyard, create stunning outdoor living spaces with stone masonry, or need concrete work we have you covered. We have years of experience working in the Dallas area and are familiar with the specific challenges and opportunities that the hot, humid summers present. Let us help you create the outdoor space of your dreams.",
+        "localContext": "Dallas is known for its diverse architecture, from mid-century ranch homes to modern masterpieces, requiring adaptable fencing and outdoor solutions.",
+        "nearbyAreas": [
+          "Irving",
+          "Garland",
+          "Mesquite"
+        ]
+      },
+      {
+        "city": "Fort Worth",
+        "slug": "fort-worth-tx",
+        "state": "TX",
+        "content": "Build it construction, Fence, Pergola, Outdoors Stone Masonry, concrete, landscape is dedicated to serving the residents of Fort Worth, Texas, with top-notch fence, pergola, stone masonry, concrete, and landscaping services. From the historic Stockyards to the charming Craftsman bungalows near downtown, we appreciate the unique character of Fort Worth. We are committed to delivering exceptional quality and customer satisfaction, ensuring your outdoor space reflects the beauty and heritage of the city.\n\nWhether you're interested in a new fence to complement your Craftsman bungalow, a custom pergola for outdoor entertaining, expert stone masonry services to enhance your landscape, or concrete work, we have the experience and expertise to meet your needs. We understand the climate challenges of Fort Worth's hot, humid summers and will design and install solutions that are both beautiful and durable.",
+        "localContext": "Fort Worth boasts a blend of historic charm and modern development, influencing design choices for fences, pergolas, and outdoor living spaces.",
+        "nearbyAreas": [
+          "Arlington",
+          "Benbrook",
+          "Haltom City"
+        ]
+      },
+      {
+        "city": "Plano",
+        "slug": "plano-tx",
+        "state": "TX",
+        "content": "Build it construction, Fence, Pergola, Outdoors Stone Masonry, concrete, landscape proudly serves the homeowners of Plano, Texas, with high-quality fence, pergola, stone masonry, concrete, and landscaping services. With its established subdivisions primarily built in the 1980s and 1990s, Plano has a distinct character. We are committed to providing reliable and professional services to enhance the beauty and functionality of your property.\n\nFrom installing a new fence to improve privacy, building a custom pergola for outdoor relaxation, creating stunning outdoor features with stone masonry, or handling concrete projects, we have the skills and expertise to exceed your expectations. We understand the specific needs of Plano residents, especially considering the hot, humid summers. Let us help you create an outdoor space that you and your family will enjoy for years to come.",
+        "localContext": "Plano's established neighborhoods with mature landscaping often require specific fencing and outdoor solutions that complement existing property designs.",
+        "nearbyAreas": [
+          "Richardson",
+          "Allen",
+          "Frisco"
+        ]
+      },
+      {
+        "city": "Frisco",
+        "slug": "frisco-tx",
+        "state": "TX",
+        "content": "Build it construction, Fence, Pergola, Outdoors Stone Masonry, concrete, landscape is pleased to offer our expert fence, pergola, stone masonry, concrete, and landscaping services to the rapidly growing community of Frisco, Texas. Known for its newer construction from the 2000s to the 2020s, Frisco features modern homes and landscapes. We are dedicated to providing innovative and high-quality services that meet the evolving needs of Frisco homeowners.\n\nWhether you're looking to install a modern fence, design a stylish pergola, enhance your outdoor space with stone masonry features, or require concrete work, we have the experience and expertise to bring your vision to life. We are familiar with the latest trends in outdoor living and will help you create a space that is both functional and aesthetically pleasing. We understand the impact of the hot, humid summers and will ensure your outdoor projects are built to last.",
+        "localContext": "Frisco's newer developments often feature contemporary designs and require modern fencing and outdoor living solutions.",
+        "nearbyAreas": [
+          "The Colony",
+          "Little Elm",
+          "Prosper"
+        ]
+      },
+      {
+        "city": "McKinney",
+        "slug": "mckinney-tx",
+        "state": "TX",
+        "content": "Build it construction, Fence, Pergola, Outdoors Stone Masonry, concrete, landscape is proud to serve the residents of McKinney, Texas, with our comprehensive fence, pergola, stone masonry, concrete, and landscaping services. From the historic downtown homes to the growing suburban areas, McKinney offers a unique blend of old and new. We are committed to providing exceptional service and quality craftsmanship to enhance the beauty and value of your property.\n\nWhether you're looking to restore a historic fence, build a custom pergola for your backyard, add stone masonry elements to your landscape, or need concrete work, we have the expertise to meet your needs. We are familiar with the specific challenges of working on older homes and will ensure that your project is completed with care and attention to detail. We understand the demands of the Texas climate and will build structures that are durable and long-lasting.",
+        "localContext": "McKinney's combination of historic homes and new developments calls for versatile fencing and outdoor solutions that respect the city's heritage.",
+        "nearbyAreas": [
+          "Allen",
+          "Prosper",
+          "Melissa"
+        ]
+      },
+      {
+        "city": "Allen",
+        "slug": "allen-tx",
+        "state": "TX",
+        "content": "Build it construction, Fence, Pergola, Outdoors Stone Masonry, concrete, landscape is excited to offer our services to the residents of Allen, Texas. We provide fence, pergola, stone masonry, concrete, and landscaping solutions. Allen offers a mix of established and newer homes, and we tailor our services to fit the specific needs of each property. Our goal is to enhance your outdoor living space with quality workmanship and exceptional customer service.\n\nWe can help you with a wide range of projects, from installing a new privacy fence or decorative pergola to creating custom stone features or handling concrete repairs. We understand Allen's climate and will ensure your outdoor structures are built to withstand the Texas heat and weather. We strive to create beautiful and functional outdoor spaces that you'll enjoy for years to come.",
+        "localContext": "Allen's diverse neighborhoods require tailored fencing and landscaping solutions that reflect the community's aesthetic.",
+        "nearbyAreas": [
+          "Plano",
+          "McKinney",
+          "Fairview"
+        ]
+      },
+      {
+        "city": "Richardson",
+        "slug": "richardson-tx",
+        "state": "TX",
+        "content": "Build it construction, Fence, Pergola, Outdoors Stone Masonry, concrete, landscape proudly serves the Richardson, Texas community. We offer comprehensive fence, pergola, stone masonry, concrete, and landscaping services. With a mix of residential and commercial properties, Richardson requires a variety of outdoor solutions, and we are equipped to handle them all. Our commitment is to provide top-notch service and quality craftsmanship to enhance your property's value and appeal.\n\nWhether you're looking for a new fence, a custom pergola, stone features, or concrete work, we can help. We understand the unique needs of Richardson properties and will work closely with you to create an outdoor space that meets your vision. We are familiar with the local building codes and regulations, ensuring your project is completed safely and efficiently.",
+        "localContext": "Richardson's mix of older and newer homes creates a demand for diverse fencing and outdoor design options.",
+        "nearbyAreas": [
+          "Plano",
+          "Garland",
+          "Dallas"
+        ]
+      },
+      {
+        "city": "Garland",
+        "slug": "garland-tx",
+        "state": "TX",
+        "content": "Build it construction, Fence, Pergola, Outdoors Stone Masonry, concrete, landscape is happy to provide fence, pergola, stone masonry, concrete, and landscaping services to the residents of Garland, Texas. Garland has a diverse range of homes, from older neighborhoods to newer developments, and we tailor our services to meet the unique needs of each property. We're committed to providing excellent customer service and quality workmanship.\n\nFrom installing a new fence for privacy, building a beautiful pergola for outdoor entertaining, or creating stunning stone features, we've got you covered. We understand the climate in Garland and will build structures that are durable and long-lasting. Let us help you transform your outdoor space into a beautiful and functional extension of your home.",
+        "localContext": "Garland's varied housing styles demand versatile fencing and outdoor solutions that complement each neighborhood's character.",
+        "nearbyAreas": [
+          "Richardson",
+          "Mesquite",
+          "Rowlett"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Wood Fence Installation",
+        "text": "Build It Construction did an amazing job installing our new cedar fence. The crew was professional, efficient, and the fence looks fantastic! It really enhances our backyard privacy. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David B.",
+        "rating": 4,
+        "service": "Concrete Patio",
+        "text": "We hired Build It Construction to pour a concrete patio in our backyard. The work was done well, and the price was fair. There was a slight delay due to weather, but they communicated effectively throughout the process.",
+        "date": "2025-04-22"
+      },
+      {
+        "name": "Jennifer K.",
+        "rating": 5,
+        "service": "Pergola Construction",
+        "text": "We absolutely love our new pergola! Build It Construction helped us design the perfect structure for our outdoor space. The craftsmanship is excellent, and it's become our favorite spot to relax.",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Robert L.",
+        "rating": 5,
+        "service": "Fence Repair",
+        "text": "Our fence was damaged during a recent storm, and Build It Construction came to the rescue! They quickly repaired the broken sections, and the fence is now stronger than ever. Great service!",
+        "date": "2025-06-01"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "Landscape Design & Installation",
+        "text": "Build It Construction transformed our overgrown yard into a beautiful and functional landscape. The team was knowledgeable and creative, and they helped us choose plants that thrive in the Arlington climate. Very happy with the results!",
+        "date": "2025-07-18"
+      },
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "service": "Outdoor Stone Masonry",
+        "text": "The stone walkway Build It Construction installed is stunning! They are true artists, and the attention to detail is incredible. It has completely transformed the look of our front yard.",
+        "date": "2025-08-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Arlington Fence & Outdoor Living Experts",
+        "description": "Build It Construction: Arlington's top choice for fences, pergolas, stonework. Quality craftsmanship & lasting value. Free quotes!"
+      },
+      "about": {
+        "title": "About Build It Construction | Arlington, TX",
+        "description": "Learn about Build It Construction's commitment to quality, community, and customer satisfaction in Arlington, Texas."
+      },
+      "services": {
+        "title": "Fence, Pergola, Concrete Services | Arlington",
+        "description": "Build It Construction offers expert fence installation, pergola construction, concrete work & more in Arlington, TX. Get a free quote!"
+      },
+      "contact": {
+        "title": "Contact Build It Construction | Arlington, TX",
+        "description": "Contact Build It Construction for fence, pergola, and concrete services in Arlington, TX. Call +18175045966 for a free quote!"
+      },
+      "reviews": {
+        "title": "Build It Construction Reviews | Arlington, TX",
+        "description": "Read reviews from satisfied Build It Construction customers in Arlington, TX. See why we're the trusted choice for fences and outdoor projects."
+      },
+      "service-areas": {
+        "title": "Service Areas | Build It Construction",
+        "description": "Build It Construction provides fence, pergola and outdoor services to various cities in the Dallas Fort Worth metroplex."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "wood-fence-installation": "/images/service-wood-fence-installation.webp",
+      "pergola-construction": "/images/service-pergola-construction.webp",
+      "outdoor-stone-masonry": "/images/service-outdoor-stone-masonry.webp",
+      "concrete-services": "/images/service-concrete-services.webp",
+      "landscape-design-and-installation": "/images/service-landscape-design-and-installation.webp",
+      "fence-repair": "/images/service-fence-repair.webp"
+    },
+    "servicesResponsive": {
+      "wood-fence-installation": {
+        "src": "/images/service-wood-fence-installation.webp",
+        "srcset": "/images/service-wood-fence-installation-400w.webp 400w, /images/service-wood-fence-installation-800w.webp 800w, /images/service-wood-fence-installation-1200w.webp 1200w, /images/service-wood-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "pergola-construction": {
+        "src": "/images/service-pergola-construction.webp",
+        "srcset": "/images/service-pergola-construction-400w.webp 400w, /images/service-pergola-construction-800w.webp 800w, /images/service-pergola-construction-1200w.webp 1200w, /images/service-pergola-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outdoor-stone-masonry": {
+        "src": "/images/service-outdoor-stone-masonry.webp",
+        "srcset": "/images/service-outdoor-stone-masonry-400w.webp 400w, /images/service-outdoor-stone-masonry-800w.webp 800w, /images/service-outdoor-stone-masonry-1200w.webp 1200w, /images/service-outdoor-stone-masonry.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-services": {
+        "src": "/images/service-concrete-services.webp",
+        "srcset": "/images/service-concrete-services-400w.webp 400w, /images/service-concrete-services-800w.webp 800w, /images/service-concrete-services-1200w.webp 1200w, /images/service-concrete-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "landscape-design-and-installation": {
+        "src": "/images/service-landscape-design-and-installation.webp",
+        "srcset": "/images/service-landscape-design-and-installation-400w.webp 400w, /images/service-landscape-design-and-installation-800w.webp 800w, /images/service-landscape-design-and-installation-1200w.webp 1200w, /images/service-landscape-design-and-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-repair": {
+        "src": "/images/service-fence-repair.webp",
+        "srcset": "/images/service-fence-repair-400w.webp 400w, /images/service-fence-repair-800w.webp 800w, /images/service-fence-repair-1200w.webp 1200w, /images/service-fence-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
